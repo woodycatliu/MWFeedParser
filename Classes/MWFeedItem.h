@@ -60,5 +60,4 @@
 @property (nonatomic, copy) NSString *image;
 @property (nonatomic, copy) NSArray *enclosures;
 
-
 @end
